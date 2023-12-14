@@ -1,0 +1,5 @@
+src/qt-uoskit /usr/bin
+src/qt-uoskit.desktop usr/share/applications
+icon/qt-uoskit.png usr/share/icons/hicolor/48x48/apps
+src/clone.sh /usr/bin
+src/main.cpp /usr/share/qt-uoskit

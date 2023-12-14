@@ -1,0 +1,5 @@
+./src/qt-uoskit
+./src/qt-uoskit.desktop
+./icon/qt-uoskit.png
+./src/clone.sh
+./src/main.cpp

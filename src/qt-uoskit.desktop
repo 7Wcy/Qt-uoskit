@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=QT Uoskit
+Exec=/usr/bin/qt-uoskit
+Icon=qt-uoskit
+Type=Application
+Categories=Development;

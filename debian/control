@@ -1,0 +1,12 @@
+Source: qt-uoskit
+Section: utils
+Priority: optional
+Maintainer: WangChengYu <wangchengyu@uniontech.com>
+Build-Depends: debhelper (>= 11), dh-autoreconf, libgtk-3-dev
+
+Package: qt-uoskit
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Simple QT uoskit application
+ A short description of your QT uoskit application.
+

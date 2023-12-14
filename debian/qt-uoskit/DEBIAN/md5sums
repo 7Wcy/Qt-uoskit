@@ -1,0 +1,6 @@
+27f50d81d8563fc301d13dfcdb312824  usr/bin/clone.sh
+37bbe0a3927ce7bdb19b29f3e16d09bc  usr/bin/qt-uoskit
+89e4ef1b7b470949f7ada041d6c5b0bb  usr/share/applications/qt-uoskit.desktop
+1dac96f8f023a305c03daabc9e148614  usr/share/doc/qt-uoskit/changelog.Debian.gz
+72e0099a8ce5fb2fbbff5eddd91289d8  usr/share/icons/hicolor/48x48/apps/qt-uoskit.png
+49d0aa8820e7e8924876d2ed0aea0d86  usr/share/qt-uoskit/main.cpp
