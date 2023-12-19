@@ -11,6 +11,7 @@ UoskitGui::UoskitGui(QWidget *parent) :
     ui->path_line->setPlaceholderText("Enter directory path...");
 
     connect(ui->clone_btn,&QPushButton::clicked,this,&UoskitGui::onCloneProject);
+    connect(ui->clone_btn,&QPushButton::clicked,this,&UoskitGui::onInstallSoftware);
 
 }
 

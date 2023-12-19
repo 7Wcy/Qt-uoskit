@@ -11,6 +11,7 @@
 #include <QProcess>
 #include <QProcessEnvironment>
 #include <QDebug>
+#include <QProgressDialog>
 
 namespace Ui {
 class UoskitGui;
@@ -28,6 +29,7 @@ signals:
 
 public slots:
     void onCloneProject();
+    void onInstallSoftware();
 
 private:
     Ui::UoskitGui *ui;

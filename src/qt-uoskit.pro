@@ -27,7 +27,8 @@ CONFIG += c++11
 SOURCES += \
         main.cpp \
         uoskitgui.cpp \
-    cloneproject.cpp
+    cloneproject.cpp \
+    installsoftware.cpp
 
 HEADERS += \
         uoskitgui.h

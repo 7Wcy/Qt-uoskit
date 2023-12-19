@@ -29,17 +29,17 @@
          <enum>QFrame::Raised</enum>
         </property>
         <layout class="QGridLayout" name="gridLayout">
-         <item row="0" column="1">
-          <widget class="QPushButton" name="software_btn">
-           <property name="text">
-            <string>安装软件</string>
-           </property>
-          </widget>
-         </item>
-         <item row="0" column="0">
+         <item row="1" column="1">
           <widget class="QPushButton" name="clone_btn">
            <property name="text">
             <string>克隆项目</string>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="QPushButton" name="software_btn">
+           <property name="text">
+            <string>安装软件</string>
            </property>
           </widget>
          </item>
